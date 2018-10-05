@@ -6,8 +6,4 @@ def read_string():
 	pass
 <<<<<<< HEAD
 
-print "next change"
-print "next line"
-
-=======
->>>>>>> parent of 71a6772... Added last line
+removed the last lines
