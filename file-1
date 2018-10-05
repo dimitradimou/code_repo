@@ -4,6 +4,6 @@ import pandas
 
 def read_string():
 	pass
-<<<<<<< HEAD
 
 removed the last lines
+added some more words
