@@ -1,3 +1,6 @@
 This is some example code
 
 import pandas
+
+def read_string():
+	pass
